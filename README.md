@@ -1,5 +1,4 @@
-# 🔥 Unlocking Large-Scale AI and Data Science with FireDucks
-
+# 🔥Powering AI with FireDucks
 Welcome to the official companion project for the blog **"Unlocking Large-Scale AI and Data Science with FireDucks"**. This repository contains the code, examples, and assets used to demonstrate how FireDucks enables scalable distributed computing for AI and data science workloads.
 
 ---
