@@ -21,5 +21,5 @@ As AI models grow in size and datasets become massive, traditional computing set
 ---
 
 ## 📚 Blog Reference
-Read the full blog post here:
+Read the full blog post here: https://docs.google.com/document/d/1h8gPB_fZvBDBzIWUR3rv8feAEVnyF1kOSNL-KdIM_TA/edit?usp=sharing
 
