@@ -20,5 +20,6 @@ As AI models grow in size and datasets become massive, traditional computing set
 
 ---
 
-## 📁 Project Structure
+## 📚 Blog Reference
+Read the full blog post here:
 
